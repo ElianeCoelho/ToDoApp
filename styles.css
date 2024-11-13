@@ -4,3 +4,34 @@
 .p-8{
     margin-top: 80px;
 }
+/* Customizações de cores */
+.bg-primary {
+    background-color: #4A90E2; 
+  }
+  
+  .text-primary {
+    color: #4A90E2; 
+  }
+  
+  .bg-secondary {
+    background-color: #F5A623; 
+  }
+  
+  .text-success {
+    color: #7ED321; 
+  }
+  
+  .text-danger {
+    color: #D0021B; /
+  }
+  
+  /* Customizações gerais */
+  .tarefa {
+    border: 1px solid #E2E8F0; /* Cinza claro */
+    padding: 8px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
